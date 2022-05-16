@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    text-align: center;
+    font-family: 'Roboto';
+    color: white;
+    height: 100vh;
+    background-size: cover;
+    background-image:url("https://media.istockphoto.com/photos/to-do-list-text-on-notepad-picture-id1285308242?b=1&k=20&m=1285308242&s=170667a&w=0&h=K-UO77yYEQAKjRNLhgXADlyRIqrPkB8sC-4mKcyMgC4=");
+
+}
+
+.h1 {
+    color: white;
+    font-family: 'Roboto';
+    color: white;
+}
+
+.p1 {
+    font-family: 'Roboto';
+    color: white;
+
+}
+
+.p2 {
+    font-family: 'Roboto';
+    text-align: left;
+    color: white;
+}
+
+.h3 {
+    font-size: bold;
+    text-align: left;
+    font-family: 'Roboto';
+    color: white;
+}
+
+.button {
+    color: white;
+    background-color: orange;
+    border-width: 1.5px;
+    font-size: 20px;
+    height: 30px;
+    width: 60px;
+}
+
+.p3 {
+    color: white;
+}
